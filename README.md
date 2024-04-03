@@ -24,3 +24,8 @@ If you just find this helpful, please give the repo a star!
 I do not maintain or own Lawnicons, I just made this repository to help people get access to new icons faster.
 
 Thanks to all the [Lawnicons contributors](https://github.com/LawnchairLauncher/lawnicons/graphs/contributors) for helping to develop such a great icon pack!
+
+## License
+The software in this repository is licensed under the MIT License
+
+See the [LICENSE](LICENSE) file for the full license.
