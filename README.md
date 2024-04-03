@@ -1,6 +1,6 @@
 # Lawnicons Nightly
 
-Daily [Lawnicons](https://github.com/LawnchairLauncher/lawnicons/commits/develop) debug releases using GitHub actions.
+Daily [Lawnicons](https://github.com/LawnchairLauncher/lawnicons/) debug releases using GitHub actions.
 
 Release are only created if there has been changes since the last release was created.
 
