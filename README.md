@@ -16,4 +16,11 @@ alt="Get it on Obtainium" align="center" height="54" /></a>
 
 
 ## Contributing
-If you can help improve the [GitHub Action](https://github.com/Hamster45105/lawnicons-nightly/blob/main/.github/workflows/daily_release.yml) in any way, please fork and make a pull request!
+If you can help improve the [GitHub Action](https://github.com/Hamster45105/lawnicons-nightly/blob/main/.github/workflows/daily_release.yml) in any way, please fork and make a pull request.
+
+If you just find this helpful, please give the repo a star!
+
+## Note
+I do not maintain or own Lawnicons, I just made this repository to help people get access to new icons faster.
+
+Thanks to all the [Lawnicons contributors](https://github.com/LawnchairLauncher/lawnicons/graphs/contributors)for helping to develop such a great icon pack!
