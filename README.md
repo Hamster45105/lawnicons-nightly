@@ -1,5 +1,18 @@
 # Lawnicons Nightly
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Hamster45105/lawnicons-nightly)
+![GitHub watchers](https://img.shields.io/github/watchers/Hamster45105/lawnicons-nightly)
+
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions%20-8A2BE2?style=for-the-badge&logo=github&color=000000)
+![Static Badge](https://img.shields.io/badge/Depandabot-8A2BE2?style=for-the-badge&logo=dependabot&color=2093c3)
+
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Hamster45105/lawnicons-nightly/daily_release.yml?branch=main&label=daily%20release)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Hamster45105/lawnicons-nightly)
+![GitHub Release](https://img.shields.io/github/v/release/Hamster45105/lawnicons-nightly?display_name=tag&label=latest%20release)
+![GitHub License](https://img.shields.io/github/license/Hamster45105/lawnicons-nightly)
+
+
 Daily [Lawnicons](https://github.com/LawnchairLauncher/lawnicons/) debug releases using GitHub actions.
 
 A new release is only created if there has been changes since the last release was created.
