@@ -42,8 +42,10 @@ I just made this to help myself and others get access to new icons faster.
 
 Thanks to all the [Lawnicons contributors](https://github.com/LawnchairLauncher/lawnicons/graphs/contributors) for helping to develop such a great icon pack!
 
-## Is the app tampered with?
-No, you can verify this yourself by reviewing the [GitHub action](/.github/workflows/daily_release.yml) that automates the releases. As you can see, the APK for the releases is downloaded directly from the `Build Debug APK` GitHub action run on the Lawnicons repository.
+## Is the app changed in any way?
+No, it is downloaded directly from the debug builds from the Lawnicons repo. 
+
+You can check for yourself by looking ar the [GitHub action](/.github/workflows/daily_release.yml) that automates the releases.
 
 ## License
 The code in this repository is licensed under the MIT License
